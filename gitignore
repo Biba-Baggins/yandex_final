@@ -1,0 +1,4 @@
+﻿*.doc
+*.cfg
+__pycache__/
+*.pyc
